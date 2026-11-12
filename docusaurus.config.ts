@@ -109,6 +109,11 @@ const config: Config = {
           docsPluginId: 'api'
         },
         {
+          href: 'https://discord.com/invite/V7FGE5ZCbA',
+          label: 'Discord',
+          position: 'right',
+        },
+        {
           href: 'mailto:contact@tscircuit.com',
           label: 'Support',
           position: 'right',
